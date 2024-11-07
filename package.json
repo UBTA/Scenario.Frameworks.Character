@@ -1,7 +1,7 @@
 ﻿{
   "name": "com.weackss.scenario.frameworks.character",
   "displayName": "Scenario.Frameworks.Character",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "",
   "license": "Dolbaeb Intenational",
   "category": "Framework",
@@ -10,7 +10,5 @@
     "email": "ubta.etc@gmail.com"
   },
   "dependencies": {
-    "com.weackss.scenario.frameworks.game": "https://github.com/UBTA/Scenario.Frameworks.Game.git",
-    "com.weackss.scenario.frameworks.utils": "https://github.com/UBTA/Scenario.Frameworks.Utils.git"
   }
 }
